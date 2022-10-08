@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=F7630C&size=35&width=600&lines=Hello+There+👌;You+Are+Welcome+Here+Always...)](https://git.io/typing-svg)
 
-
 - 👋 Hi, I’m Paul
 - 👀 I’m a Full-Stack Software Engineer & interested in Problem solving...
 - 🌱 I’m currently learning at Microverse ...
